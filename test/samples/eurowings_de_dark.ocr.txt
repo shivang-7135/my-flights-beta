@@ -1,0 +1,42 @@
+9:41 5G 100%
+Ihre Buchungsbestatigung
+Hallo Max,
+vielen Dank fur Ihre Buchung.
+Buchungscode: M3TZ8R
+Hinflug
+Do., 17. Dez. 2026
+Köln/Bonn (CGN) — Wien (VIE)
+EW 754
+Abflug 06:45 Uhr
+Ankunft 08:15 Uhr
+Rückflug
+So., 20. Dezember 2026
+Wien (VIE) — Köln/Bonn (CGN)
+EW 755
+18:50 Uhr — 20:25 Uhr
+Fluggéste
+Herr Max Mustermann
+Frau Erika Mustermann
+Tarif: SMART - Handgepéack 8 kg
+
+=====ROWS=====
+9:41   5G 100%
+Ihre Buchungsbestatigung
+Hallo Max,
+vielen Dank fur Ihre Buchung.
+Buchungscode: M3TZ8R
+Hinflug
+Do., 17. Dez. 2026
+Köln/Bonn (CGN) — Wien (VIE)
+EW 754
+Abflug 06:45 Uhr
+Ankunft 08:15 Uhr
+Rückflug
+So., 20. Dezember 2026
+Wien (VIE) — Köln/Bonn (CGN)
+EW 755
+18:50 Uhr — 20:25 Uhr
+Fluggéste
+Herr Max Mustermann
+Frau Erika Mustermann
+Tarif: SMART - Handgepéack 8 kg

@@ -1,0 +1,48 @@
+PASSENGER: MUSTERMANN MAX MR (ADT)   Issuing office:
+BOOKING REFERENCE: K4TQ7Z   AIR INDIA, WWW.AIRINDIA.COM, LOYALTY
+TICKET NUMBER: 098 0000000000   FARES, DELHI
+Date of issue: 07Nov2026
+ELECTRONIC TICKET ITINERARY / RECEIPT
+You must present this receipt along with a valid photo identification, mentioned at the time of booking, to enter the airport.
+We seek your attention to make a note of our Terms and Conditions of Carriage
+Web check-in is not permitted for Air India codeshare flight segments operated by Air India Express. Passenger has to get the
+check-in done for such flights at the Air India Express airport check-in counters.
+AIR INDIA DOMESTIC FLIGHTS AT DELHI AIRPORT NOW OPERATE FROM TERMINAL 2 & 3. In case you have a departing/
+connecting flight from Delhi, please check your terminal. Know more.
+From   To   Flight   Departure   Arrival
+FRANKFURT FRANKFURT   DELHI INDIRA GANDHI INTL   AI2030   20:45   10:35
+INTL   Terminal: 3   24Nov2026 25Nov2026
+Terminal: 1
+Class: STUINEU, S   Operated by: AIR INDIA
+Baggage: 2PC   Marketed by: AIR INDIA
+Fare basis: SL2YXVFR   Booking status (1): OK
+NVB (2): 24Nov2026   NVA (3): 24Nov2026
+Flight duration : 09:20   Frequent flyer number: 000000000
+DELHI INDIRA GANDHI INTL BENGALURU KEMPEGOWDA INTL AI2513   13:00   15:50
+Terminal: 3   Terminal: 2   25Nov2026 25Nov2026
+Class: STUINEU, S   Operated by: AIR INDIA
+Baggage: 2PC   Marketed by: AIR INDIA
+Fare basis: SL2YXVFR   Booking status (1): OK
+NVB (2): 25Nov2026   NVA (3): 25Nov2026
+Flight duration : 02:50   Frequent flyer number: 000000000
+BENGALURU   MUMBAI CHHATRAPATI S   AI2604   09:00   10:55
+KEMPEGOWDA INTL   MAHARAJ   29Dec2026 29Dec2026
+Terminal: 2   Terminal: 2
+Class: STUINEU, U   Operated by: AIR INDIA
+Baggage: 2PC   Marketed by: AIR INDIA
+Fare basis: UL2YXVFR   Booking status (1): OK
+NVB (2): 29Dec2026   NVA (3): 29Dec2026
+Flight duration : 01:55   Frequent flyer number: 000000000
+MUMBAI CHHATRAPATI S   FRANKFURT FRANKFURT INTL   AI2027   12:30   18:30
+MAHARAJ   Terminal: 1   29Dec2026 29Dec2026
+Terminal: 2
+Class: STUINEU, U   Operated by: AIR INDIA
+Baggage: 2PC   Marketed by: AIR INDIA
+Fare basis: UL2YXVFR   Booking status (1): OK
+NVB (2): 29Dec2026   NVA (3): 29Dec2026
+Flight duration : 10:30   Frequent flyer number: 000000000
+(1)OK = Confirmed (2) NVB = Not valid before (3) NVA = Not valid after
+PAYMENT DETAILS   FARE DETAILS
+Fare Calculation : FRA AI X/DEL AI BLR00.00AI X/BOM AI   Base Fare:   EUR 0.00
+FRA000.00NUC000.00END ROE0.000000
+Form of payment:   AIOP   Taxes:   EUR 0.00IN

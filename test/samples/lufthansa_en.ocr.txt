@@ -1,0 +1,50 @@
+9:41 5G 100%
+Lufthansa
+Your booking confirmation
+Dear Mr Sharma,
+thank you for booking with Lufthansa.
+Booking code: 7XK4PQ
+Outbound flight - Sat, 14 Nov 2026
+Frankfurt (FRA) O Delhi (DEL)
+LH 760 - Operated by Lufthansa
+13:20 01:05 +1
+Frankfurt FRA Delhi DEL
+Terminal 1 Terminal 3
+Economy Classic - Duration 07:45
+Return flight - Sun, 10 Jan 2027
+Delhi (DEL) O Frankfurt (FRA)
+LH 761 - Operated by Lufthansa
+03:00 07:35
+Delhi DEL Frankfurt FRA
+Terminal 1 Terminal 3
+Economy Classic + Duration 07:45
+Passengers
+Mr Arjun Sharma
+Mrs Priya Sharma
+Baggage: 1 x 23 kg per passenger
+
+=====ROWS=====
+9:41   5G 100%
+Lufthansa
+Your booking confirmation
+Dear Mr Sharma,
+thank you for booking with Lufthansa.
+Booking code: 7XK4PQ
+Outbound flight - Sat, 14 Nov 2026
+Frankfurt (FRA) O Delhi (DEL)
+LH 760 - Operated by Lufthansa
+13:20   01:05 +1
+Frankfurt FRA   Delhi DEL
+Terminal 1   Terminal 3
+Economy Classic - Duration 07:45
+Return flight - Sun, 10 Jan 2027
+Delhi (DEL) O Frankfurt (FRA)
+LH 761 - Operated by Lufthansa
+03:00   07:35
+Delhi DEL   Frankfurt FRA
+Terminal 1   Terminal 3
+Economy Classic + Duration 07:45
+Passengers
+Mr Arjun Sharma
+Mrs Priya Sharma
+Baggage: 1 x 23 kg per passenger
